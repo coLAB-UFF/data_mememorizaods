@@ -2,7 +2,7 @@
 
 Material gráfico e protótipos da caixa do jogo produzidos para o projeto **“MemeMoriza ODS”**, desenvolvido no âmbito do Programa de Pós Graduação em Cultura e Territorialidades da UFF, sob orientação da professora Aline Carvalho junto aos alunos Bruno Costa, Clara Rosa Cruz, Ezequiel Nunes, Hanna Bulha, Isabela Starepravo, Manuel Alcausa, Maria Julia Erthal, Melissa Vilela, Tacyo Alves, Taina Gonçalves, Thiago Araújo e Wellington de Oliveira, com consultoria de Graciella Faico.
 
-![](https://raw.githubusercontent.com/coLAB-UFF/data_mememorizaods/main/mememorizaods_slide.png)
+![](https://raw.githubusercontent.com/coLAB-UFF/data_mememorizaods/main/mememoriza_slide.png)
 
 
 ## Uso destes dados
